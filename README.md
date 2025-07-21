@@ -1,3 +1,3 @@
-# KT ALP 교육 정리 Repository
+# KT ALP 교육 Repository
 
-이 레포지토리는 KT의 ALP 교육 과정에서 학습한 내용을 정리하고 공유하기 위함. 개인 학습 기록 및 지식 공유용.
+
